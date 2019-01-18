@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/keets2012/Auth-service.svg?branch=master)](https://travis-ci.org/keets2012/Auth-service)
-[![codebeat badge](https://codebeat.co/badges/4594f615-67af-46b0-9adf-b69b476dc250)](https://codebeat.co/projects/github-com-keets2012-auth-service-master)
+[![Build Status](https://travis-ci.com/chenweibbxx/Auth-service.svg?branch=master)](https://travis-ci.com/chenweibbxx/Auth-service)
+[![codebeat badge](https://codebeat.co/badges/5963311c-4ab2-4ede-91cc-fa8469ba484b)](https://codebeat.co/projects/github-com-chenweibbxx-auth-service-master)
 ![](https://img.shields.io/badge/license-MIT-000000.svg)
 
 ## change logs
